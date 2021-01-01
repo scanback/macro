@@ -7,13 +7,13 @@ ASM,American Samoa,Am Samoa,Am.Sam.,16
 AND,Andorra,Andorra,And.,20
 AGO,Angola,Angola,Ango.,24
 AIA,Anguilla,Anguilla,Angu.,660
-ATA,Antarctica,Antarctica,Ant.,10
-ATG,Antigua and Barbuda,Antigua,Ant.Bar.,28
+ATA,Antarctica,Antarctica,Antar.,10
+ATG,Antigua and Barbuda,Antigua,Antig.,28
 ARG,Argentina,Argentina,Arg.,32
 ARM,Armenia,Armenia,Arm.,51
 ABW,Aruba,Aruba,Aruba,533
-AUS,Australia,Australia,Austra.,36
-AUT,Austria,Austria,Austri.,40
+AUS,Australia,Australia,Aus.,36
+AUT,Austria,Austria,Aut.,40
 AZE,Azerbaijan,Azerbaijan,Azer.,31
 BHS,Bahamas,Bahamas,Bhs.,44
 BHR,Bahrain,Bahrain,Bahr.,48
@@ -21,10 +21,10 @@ BGD,Bangladesh,Bangladesh,Bang.,50
 BRB,Barbados,Barbados,Barb.,52
 BLR,Belarus,Belarus,Bela.,112
 BEL,Belgium,Belgium,Belg.,56
-BLZ,Belize,Belize,Belize,84
+BLZ,Belize,Belize,Belz.,84
 BEN,Benin,Benin,Benin,204
 BMU,Bermuda,Bermuda,Ber.,60
-BTN,Bhutan,Bhutan,Bhutan,64
+BTN,Bhutan,Bhutan,Bhu.,64
 BOL,Bolivia,Bolivia,Bol.,68
 BES,"Bonaire, Sint Eustatius and Saba",Bonaire,Bon.,535
 BIH,Bosnia and Herzegovina,Bosnia,Bos.,70
@@ -37,7 +37,7 @@ BRN,Brunei Darussalam,Brunei,Bru.,96
 BGR,Bulgaria,Bulgaria,Bulg.,100
 BFA,Burkina Faso,Burkina Faso,B.Faso,854
 BDI,Burundi,Burundi,Bur.,108
-CPV,Cabo Verde,Cabo Verde,C. Ver.,132
+CPV,Cabo Verde,Cabo Verde,C.Ver.,132
 KHM,Cambodia,Cambodia,Camb.,116
 CMR,Cameroon,Cameroon,Came.,120
 CAN,Canada,Canada,Can.,124
@@ -54,7 +54,7 @@ COD,"Congo, Dem. Rep.","Congo, DR",DRC,180
 COG,"Congo, Rep.","Congo, Rep",Congo,178
 COK,Cook Islands,Cook Is,Cook,184
 CRI,Costa Rica,Costa Rica,CR,188
-CIV,Cote d'Ivoire,Cote d'Ivoire,Ivoire,384
+CIV,Cote d'Ivoire,Cote d'Ivoire,C.Ivo.,384
 HRV,Croatia,Croatia,Cro.,191
 CUB,Cuba,Cuba,Cuba,192
 CUW,Curacao,Curacao,Cur.,531
@@ -94,7 +94,7 @@ GUM,Guam,Guam,Guam,316
 GTM,Guatemala,Guatemala,Guat.,320
 GGY,Guernsey,Guernsey,Gue.,831
 GIN,Guinea,Guinea,Gui.,324
-GNB,Guinea-Bissau,Guinea-Bissau,Gui.-B.,624
+GNB,Guinea-Bissau,Guinea-Bissau,Gui.B.,624
 GUY,Guyana,Guyana,Guy.,328
 HTI,Haiti,Haiti,Haiti,332
 HMD,Heard Island and McDonald Islands,Heard & McDonald Is,Heard,334
@@ -147,7 +147,7 @@ MYT,Mayotte,Mayotte,Mayo.,175
 MEX,Mexico,Mexico,Mex.,484
 FSM,Micronesia,Micronesia,Micro.,583
 MDA,Moldova,Moldova,Mol.,498
-MCO,Monaco,Monaco,Monaco,492
+MCO,Monaco,Monaco,Mona.,492
 MNG,Mongolia,Mongolia,Mong.,496
 MNE,Montenegro,Montenegro,Monte.,499
 MSR,Montserrat,Montserrat,Monts.,500
@@ -231,7 +231,7 @@ TUN,Tunisia,Tunisia,Tun.,788
 TUR,Turkey,Turkey,Tur.,792
 TKM,Turkmenistan,Turkmenistan,Turkm.,795
 TCA,Turks and Caicos Islands,Turks & Caicos Is,Turks,796
-TUV,Tuvalu,Tuvalu,Tuvalu,798
+TUV,Tuvalu,Tuvalu,Tuv.,798
 VIR,U.S. Virgin Islands,US Virgin Is,USVI,850
 UGA,Uganda,Uganda,Uga.,800
 UKR,Ukraine,Ukraine,Ukr.,804
