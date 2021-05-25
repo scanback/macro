@@ -111,7 +111,7 @@ B. Household consumption expenditure [HCE] (this is what is reported in national
 ================================================================
 
 
-C1. Gross domestic product: AIC based
+C1. Gross domestic product: AIC-based
 
 
 1000000:GROSS DOMESTIC PRODUCT
@@ -132,7 +132,8 @@ C1. Gross domestic product: AIC based
 
 or--------------------------------------------------------------
 
-C1. Gross domestic product: HCE based
+C2. Gross domestic product: HCE-based
+
 
 1000000:GROSS DOMESTIC PRODUCT
 
