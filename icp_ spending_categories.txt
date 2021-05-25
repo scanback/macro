@@ -82,6 +82,19 @@ B. Household consumption expenditure [HCE] (this is what is reported in national
 ================================================================
 
 
+NOTE: AIC is HCE plus government spending on behalf of individuals/households. Thus government consumption expenditure (GCE) is split in two parts: Government spending on behalf of individuals + Government spending on behalf of the collective
+
+9270000:GENERAL GOVERNMENT FINAL CONSUMPTION EXPENDITURE
+
+=
+
+1300000:INDIVIDUAL CONSUMPTION EXPENDITURE BY GOVERNMENT	
++
+1400000:COLLECTIVE CONSUMPTION EXPENDITURE BY GOVERNMENT
+
+================================================================
+
+
 C1. Gross domestic product: AIC-based
 
 
