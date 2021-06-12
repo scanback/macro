@@ -134,7 +134,7 @@
 1,LUX,Luxembourg,Luxembourg,Lux.,442,LU,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxembourg,LUX,Luxembourg,Luxembourg,Europe,W Europe,W Europe,Eur & C Asia,1,1,1,EUR,Euro,6.087971329,49.76054831
 0,MAC,Macao,Macao,Macao,446,MO,Macao,"Macao SAR, China","Macao SAR, China","China, Macao Special Administrative Region","China, Macao Special Administrative Region",MAC,Macao SAR,Macau,Asia,E Asia,E Asia,E Asia,,,1,MOP,Pataca,113.5625498,22.14834353
 1,MDG,Madagascar,Madagascar,Mada.,450,MG,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,MDG,Madagascar,Madagascar,Africa,Africa,SSA,SSA,,,,MGA,Ariary,46.69541845,-18.2902939
-1,MWI,Malawi,Malawi,Ma'wi.,454,MW,Malawi,Malawi,Malawi,Malawi,Malawi,MWI,Malawi,Malawi,Africa,Africa,SSA,SSA,,,,MWK,Kwacha,33.62052608,-13.16608888
+1,MWI,Malawi,Malawi,Ma'wi,454,MW,Malawi,Malawi,Malawi,Malawi,Malawi,MWI,Malawi,Malawi,Africa,Africa,SSA,SSA,,,,MWK,Kwacha,33.62052608,-13.16608888
 1,MYS,Malaysia,Malaysia,Malay.,458,MY,Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,MYS,Malaysia,Malaysia,Asia,SE Asia,SE Asia,SE Asia - Pac,,,,MYR,Ringgit,114.0035398,2.789930094
 0,MDV,Maldives,Maldives,Mald.,462,MV,Maldives,Maldives,Maldives,Maldives,Maldives,MDV,Maldives,Maldives,Asia,S Asia,S Asia,S Asia,,,1,MVR,Rufiyaa,73.54184168,1.917336962
 1,MLI,Mali,Mali,Mali,466,ML,Mali,Mali,Mali,Mali,Mali,MLI,Mali,Mali,Africa,Africa,SSA,SSA,,,,XOF,Franc,-2.035288503,18.71591671
@@ -157,7 +157,7 @@
 0,NAM,Namibia,Namibia,Nam.,516,NA,Namibia,Namibia,Namibia,Namibia,Namibia,NAM,Namibia,Namibia,Africa,Africa,SSA,SSA,,,,NAD,Dollar,17.12278955,-20.58415341
 0,NRU,Nauru,Nauru,Nauru,520,NR,Nauru,Nauru,Nauru,Nauru,Nauru,NRU,Nauru,,Oceania,Oceania,Oceania,SE Asia - Pac,,,1,AUD,Dollar,166.9372536,-0.529983278
 1,NPL,Nepal,Nepal,Nepal,524,NP,Nepal,Nepal,Nepal,Nepal,Nepal,NPL,Nepal,Nepal,Asia,S Asia,S Asia,S Asia,,,,NPR,Rupee,83.60678983,28.32647371
-1,NLD,Netherlands,Netherlands,Neth.,528,NL,Netherlands (the),Netherlands,Netherlands,Netherlands,Netherlands,NLD,Netherlands,Netherlands,Europe,W Europe,W Europe,Eur & C Asia,1,1,,EUR,Euro,5.497443554,51.77807004
+1,NLD,Netherlands,Netherlands,Neth.,528,NL,Netherlands (the),Netherlands,Netherlands,Netherlands,Netherlands,NLD,Netherlands,Netherlands,Europe,W Europe,W Europe,Eur & C Asia,1,1,,EUR,Euro,6.4,53
 0,NCL,New Caledonia,New Caledonia,N.Cal.,540,NC,New Caledonia,New Caledonia,New Caledonia,New Caledonia,New Caledonia,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,,XPF,Franc,165.4896607,-21.40521936
 1,NZL,New Zealand,New Zealand,NZ,554,NZ,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,NZL,New Zealand,New Zealand,Oceania,Oceania,Oceania,SE Asia - Pac,1,,,NZD,Dollar,169.2295302,-45.17956405
 1,NIC,Nicaragua,Nicaragua,Nic.,558,NI,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,NIC,Nicaragua,Nicaragua,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,NIO,Cordoba,-85.03715164,12.79196601
@@ -165,7 +165,7 @@
 1,NGA,Nigeria,Nigeria,Nga.,566,NG,Nigeria,Nigeria,Nigeria,Nigeria,Nigeria,NGA,Nigeria,Nigeria,Africa,Africa,SSA,SSA,,,,NGN,Naira,7.521294954,9.408229631
 ,NIU,Niue,Niue,Niue,570,NU,Niue,,Niue,,Niue,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,,NZD,Dollar,#N/A,#N/A
 ,NFK,Norfolk Island,Norfolk Is,Norf.,574,NF,Norfolk Island,,,,Norfolk Island,,,,Oceania,Oceania,Oceania,SE Asia - Pac,1,,,AUD,Dollar,#N/A,#N/A
-0,MKD,North Macedonia,N Macedonia,Mace.,807,MK,North Macedonia,North Macedonia,North Macedonia,Republic of North Macedonia,North Macedonia,MKD,North Macedonia,Macedonia,Europe,S Europe,S Europe,Eur & C Asia,1,,,MKD,Denar,21.56414441,41.56217487
+0,MKD,North Macedonia,N Macedonia,N.Mace.,807,MK,North Macedonia,North Macedonia,North Macedonia,Republic of North Macedonia,North Macedonia,MKD,North Macedonia,Macedonia,Europe,S Europe,S Europe,Eur & C Asia,1,,,MKD,Denar,21.56414441,41.56217487
 ,MNP,Northern Mariana Islands,N Mariana Is,N.Mar.,580,MP,Northern Mariana Islands (the),Northern Mariana Islands,Northern Mariana Islands,,Northern Mariana Islands,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,,USD,Dollar,#N/A,#N/A
 1,NOR,Norway,Norway,Nor.,578,NO,Norway,Norway,Norway,Norway,Norway,NOR,Norway,Norway,Europe,N Europe,N Europe,Eur & C Asia,1,,,NOK,Krone,9.656744477,61.29890789
 1,OMN,Oman,Oman,Oman,512,OM,Oman,Oman,Oman,Oman,Oman,OMN,Oman,Oman,Asia,W Asia,W Asia,MENA,,,,OMR,Rial,57.3881467,22.10944418
@@ -211,11 +211,11 @@
 ,SGS,South Georgia and the South Sandwich Islands,SGSSI,SGSSI,239,GS,South Georgia and the South Sandwich Islands,,,,South Georgia and the South Sandwich Islands,,,,S America,Latam & Carib,Latam & Carib,Latam & Carib,,,,#N/A,#N/A,#N/A,#N/A
 9,SSD,South Sudan,S Sudan,S.Sud.,728,SS,South Sudan,South Sudan,South Sudan,South Sudan,South Sudan,SSD,South Sudan,,Africa,Africa,SSA,SSA,,,,SSD,Pound,30.41139187,7.216748026
 1,ESP,Spain,Spain,Sp.,724,ES,Spain,Spain,Spain,Spain,Spain,ESP,Spain,Spain,Europe,S Europe,S Europe,Eur & C Asia,1,1,,EUR,Euro,-3.455018414,40.03913559
-1,LKA,Sri Lanka,Sri Lanka,Sri L.,144,LK,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,LKA,Sri Lanka,Sri Lanka,Asia,S Asia,S Asia,S Asia,,,,LKR,Rupee,80.68185462,7.577967425
+1,LKA,Sri Lanka,Sri Lanka,S.Lan.,144,LK,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,LKA,Sri Lanka,Sri Lanka,Asia,S Asia,S Asia,S Asia,,,,LKR,Rupee,80.68185462,7.577967425
 1,SDN,Sudan,Sudan,Sudan,729,SD,Sudan (the),Sudan,Sudan,Sudan,Sudan,SDN,Sudan,Sudan,Africa,Africa,N Africa,MENA,,,,SDG,Pound,29.80109407,16.57501819
 0,SUR,Suriname,Suriname,Sur.,740,SR,Suriname,Suriname,Suriname,Suriname,Suriname,SUR,Suriname,Suriname,S America,Latam & Carib,Latam & Carib,Latam & Carib,,,,SRD,Dollar,-55.95476706,4.165337778
 ,SJM,Svalbard and Jan Mayen,Svalbard,Sval.,744,SJ,Svalbard and Jan Mayen,,,,Svalbard and Jan Mayen Islands,,,,Europe,N Europe,N Europe,Eur & C Asia,1,,,NOK,Krone,#N/A,#N/A
-1,SWE,Sweden,Sweden,Swe.,752,SE,Sweden,Sweden,Sweden,Sweden,Sweden,SWE,Sweden,Sweden,Europe,N Europe,N Europe,Eur & C Asia,1,1,,SEK,Krona,18.91884552,65.88170976
+1,SWE,Sweden,Sweden,Swe.,752,SE,Sweden,Sweden,Sweden,Sweden,Sweden,SWE,Sweden,Sweden,Europe,N Europe,N Europe,Eur & C Asia,1,1,,SEK,Krona,14.75,61.65
 1,CHE,Switzerland,Switzerland,Swi.,756,CH,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,CHE,Switzerland,Switzerland,Europe,W Europe,W Europe,Eur & C Asia,1,,,CHF,Franc,7.509977554,46.73417032
 9,SYR,Syria,Syria,Syria,760,SY,Syrian Arab Republic (the),Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,SYR,Syria,Syria,Asia,W Asia,W Asia,MENA,,,,SYP,Pound,38.29897861,35.00606767
 1,TWN,Taiwan,Taiwan,Tai.,158,TW,Taiwan (Province of China),"Taiwan, China","Taiwan, China",,,TWN,Taiwan Province of China,Taiwan,Asia,E Asia,E Asia,E Asia,,,,TWD,New Dollar,120.8771507,23.63559318
