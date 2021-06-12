@@ -53,7 +53,7 @@
 1,COD,"Congo, Dem. Rep.","Congo, DR",DRC,180,CD,Congo (the Democratic Republic of the),"Congo, Dem. Rep.","Congo, Dem. Rep.",Democratic Republic of the Congo,Democratic Republic of the Congo,COD,Democratic Republic of the Congo,Democratic Republic of Congo,Africa,Africa,SSA,SSA,,,,CDF,Franc,23.47265462,-2.27302051
 0,COG,"Congo, Rep.","Congo, Rep",Congo,178,CG,Congo (the),"Congo, Rep.","Congo, Rep.",Congo,Congo,COG,Republic of Congo,Republic of Congo,Africa,Africa,SSA,SSA,,,,XAF,Franc,15.91949005,0.116318226
 0,COK,Cook Islands,Cook Is,Cook,184,CK,Cook Islands (the),,Cook Islands,Cook Islands,Cook Islands,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,1,NZD,Dollar,-158.0301058,-8.923573087
-0,CRI,Costa Rica,Costa Rica,CR,188,CR,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,CRI,Costa Rica,Costa Rica,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,CRC,Colon,-84.02893857,10.06666637
+0,CRI,Costa Rica,Costa Rica,CR,188,CR,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,CRI,Costa Rica,Costa Rica,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,CRC,Colon,-84.6,10.4
 1,CIV,Cote d'Ivoire,Cote d'Ivoire,C.Ivo.,384,CI,Côte d'Ivoire,Cote d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Côte d’Ivoire,CIV,Côte d'Ivoire,Côte d’Ivoire,Africa,Africa,SSA,SSA,,,,XOF,Franc,-5.495831966,7.570921702
 1,HRV,Croatia,Croatia,Cro.,191,HR,Croatia,Croatia,Croatia,Croatia,Croatia,HRV,Croatia,Croatia,Europe,S Europe,S Europe,Eur & C Asia,1,1,,HRK,Kuna,16.9,45.80899063
 9,CUB,Cuba,Cuba,Cuba,192,CU,Cuba,Cuba,Cuba,Cuba,Cuba,,,Cuba,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,CUC,Peso,-77.95900312,21.32249851
@@ -66,7 +66,7 @@
 1,DOM,Dominican Republic,Dominican Rep,DR,214,DO,Dominican Republic (the),Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,DOM,Dominican Republic,Dominican Republic,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,DOP,Peso,-70.62445086,19.09245884
 1,ECU,Ecuador,Ecuador,Ecu.,218,EC,Ecuador,Ecuador,Ecuador,Ecuador,Ecuador,ECU,Ecuador,Ecuador,S America,Latam & Carib,Latam & Carib,Latam & Carib,,,,USD,Dollar,-78.37792083,-2.2
 1,EGY,Egypt,Egypt,Egypt,818,EG,Egypt,"Egypt, Arab Rep.","Egypt, Arab Rep.",Egypt,Egypt,EGY,Egypt,Egypt,Africa,Africa,N Africa,MENA,,,,EGP,Pound,29.44869436,26.18834146
-1,SLV,El Salvador,El Salvador,Sal.,222,SV,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,SLV,El Salvador,El Salvador,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,USD,Dollar,-88.2,13.69813385
+1,SLV,El Salvador,El Salvador,Sal.,222,SV,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,SLV,El Salvador,El Salvador,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,USD,Dollar,-88.3,13.5
 0,GNQ,Equatorial Guinea,Eq Guinea,Eq.Gui.,226,GQ,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,GNQ,Equatorial Guinea,Equatorial Guinea,Africa,Africa,SSA,SSA,,,,XAF,Franc,10.46521473,1.586035619
 9,ERI,Eritrea,Eritrea,Erit.,232,ER,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,ERI,Eritrea,Eritrea,Africa,Africa,SSA,SSA,,,,ERN,Nakfa,37.5,15.80351896
 1,EST,Estonia,Estonia,Est.,233,EE,Estonia,Estonia,Estonia,Estonia,Estonia,EST,Estonia,Estonia,Europe,N Europe,N Europe,Eur & C Asia,1,1,,EUR,Euro,26.00645746,58.73764719
@@ -180,7 +180,7 @@
 ,PCN,Pitcairn,Pitcairn,Pitc.,612,PN,Pitcairn,,,,Pitcairn,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,,NZD,Dollar,#N/A,#N/A
 1,POL,Poland,Poland,Pol.,616,PL,Poland,Poland,Poland,Poland,Poland,POL,Poland,Poland,Europe,E Europe,E Europe,Eur & C Asia,1,1,,PLN,Zloty,19.49061135,51.99138778
 1,PRT,Portugal,Portugal,Port.,620,PT,Portugal,Portugal,Portugal,Portugal,Portugal,PRT,Portugal,Portugal,Europe,S Europe,S Europe,Eur & C Asia,1,1,,EUR,Euro,-8.265885829,39.29732098
-1,PRI,Puerto Rico,Puerto Rico,PR,630,PR,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PRI,Puerto Rico,Puerto Rico,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,USD,Dollar,-66.47912731,18.22939216
+1,PRI,Puerto Rico,Puerto Rico,PR,630,PR,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PRI,Puerto Rico,Puerto Rico,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,USD,Dollar,-66.5,18.22939216
 1,QAT,Qatar,Qatar,Qatar,634,QA,Qatar,Qatar,Qatar,Qatar,Qatar,QAT,Qatar,Qatar,Asia,W Asia,W Asia,MENA,,,,QAR,Riyal,51.14769279,25.22082231
 ,REU,Reunion,Reunion,Reun.,638,RE,Réunion,,,,Réunion,,,,Africa,Africa,SSA,SSA,,,,EUR,Euro,55.52603476,-21.12685654
 1,ROU,Romania,Romania,Rom.,642,RO,Romania,Romania,Romania,Romania,Romania,ROU,Romania,Romania,Europe,E Europe,E Europe,Eur & C Asia,1,1,,RON,Leu,24.98606886,45.72975894
