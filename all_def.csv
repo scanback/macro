@@ -21,7 +21,7 @@
 0,BRB,Barbados,Barbados,Barb.,52,BB,Barbados,Barbados,Barbados,Barbados,Barbados,BRB,Barbados,Barbados,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,BBD,Dollar,-59.55885509,13.1497733
 1,BLR,Belarus,Belarus,Bela.,112,BY,Belarus,Belarus,Belarus,Belarus,Belarus,BLR,Belarus,Belarus,Europe,E Europe,E Europe,Eur & C Asia,1,,,BYN,Ruble,28.44634016,53.82377022
 1,BEL,Belgium,Belgium,Belg.,56,BE,Belgium,Belgium,Belgium,Belgium,Belgium,BEL,Belgium,Belgium,Europe,W Europe,W Europe,Eur & C Asia,1,1,,EUR,Euro,4.79252842,50.78917756
-0,BLZ,Belize,Belize,Belz.,84,BZ,Belize,Belize,Belize,Belize,Belize,BLZ,Belize,Belize,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,BZD,Dollar,-88.71066395,17.20082406
+0,BLZ,Belize,Belize,Belz.,84,BZ,Belize,Belize,Belize,Belize,Belize,BLZ,Belize,Belize,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,BZD,Dollar,-88.71066395,16.8
 1,BEN,Benin,Benin,Benin,204,BJ,Benin,Benin,Benin,Benin,Benin,BEN,Benin,Benin,Africa,Africa,SSA,SSA,,,,XOF,Franc,2.363500991,10.34352718
 0,BMU,Bermuda,Bermuda,Ber.,60,BM,Bermuda,Bermuda,Bermuda,Bermuda,Bermuda,,,,N America,Northern America,Northern America,Northern America,1,,1,BMD,Dollar,-64.7225,32.3327
 0,BTN,Bhutan,Bhutan,Bhu.,64,BT,Bhutan,Bhutan,Bhutan,Bhutan,Bhutan,BTN,Bhutan,Bhutan,Asia,S Asia,S Asia,S Asia,,,,BTN,Ngultrum,89.92119654,27.45670331
@@ -55,11 +55,11 @@
 0,COK,Cook Islands,Cook Is,Cook,184,CK,Cook Islands (the),,Cook Islands,Cook Islands,Cook Islands,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,1,NZD,Dollar,-158.0301058,-8.923573087
 0,CRI,Costa Rica,Costa Rica,CR,188,CR,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,CRI,Costa Rica,Costa Rica,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,CRC,Colon,-84.6,10.4
 1,CIV,Cote d'Ivoire,Cote d'Ivoire,C.Ivo.,384,CI,Côte d'Ivoire,Cote d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Côte d’Ivoire,CIV,Côte d'Ivoire,Côte d’Ivoire,Africa,Africa,SSA,SSA,,,,XOF,Franc,-5.495831966,7.570921702
-1,HRV,Croatia,Croatia,Cro.,191,HR,Croatia,Croatia,Croatia,Croatia,Croatia,HRV,Croatia,Croatia,Europe,S Europe,S Europe,Eur & C Asia,1,1,,HRK,Kuna,16.9,45.80899063
+1,HRV,Croatia,Croatia,Cro.,191,HR,Croatia,Croatia,Croatia,Croatia,Croatia,HRV,Croatia,Croatia,Europe,S Europe,S Europe,Eur & C Asia,1,1,,HRK,Kuna,17,45.6
 9,CUB,Cuba,Cuba,Cuba,192,CU,Cuba,Cuba,Cuba,Cuba,Cuba,,,Cuba,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,CUC,Peso,-77.95900312,21.32249851
 0,CUW,Curacao,Curacao,Cur.,531,CW,Curaçao,Curacao,Curaçao,Curaçao,Curaçao,,,,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,ANG,Guilder,-68.96804572,12.15801128
 1,CYP,Cyprus,Cyprus,Cyp.,196,CY,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,CYP,Cyprus,Cyprus,Asia,W Asia,W Asia,Eur & C Asia,1,1,1,EUR,Euro,33.20530901,35.03066081
-1,CZE,Czechia,Czechia,Cz.,203,CZ,Czechia,Czech Republic,Czech Republic,Czechia,Czechia,CZE,Czech Republic,Czech Republic,Europe,E Europe,E Europe,Eur & C Asia,1,1,,CZK,Koruna,15.37966585,49.88556597
+1,CZE,Czechia,Czechia,Cz.,203,CZ,Czechia,Czech Republic,Czech Republic,Czechia,Czechia,CZE,Czech Republic,Czech Republic,Europe,E Europe,E Europe,Eur & C Asia,1,1,,CZK,Koruna,15.9,49.88556597
 1,DNK,Denmark,Denmark,Den.,208,DK,Denmark,Denmark,Denmark,Denmark,Denmark,DNK,Denmark,Denmark,Europe,N Europe,N Europe,Eur & C Asia,1,1,,DKK,Krone,9.056048208,55.97879354
 0,DJI,Djibouti,Djibouti,Dji.,262,DJ,Djibouti,Djibouti,Djibouti,Djibouti,Djibouti,DJI,Djibouti,Djibouti,Africa,Africa,SSA,SSA,,,,DJF,Franc,42.48844755,11.96459291
 0,DMA,Dominica,Dominica,Dom.,212,DM,Dominica,Dominica,Dominica,Dominica,Dominica,DMA,Dominica,Dominica,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,XCD,Dollar,-61.34842846,15.44573227
@@ -77,7 +77,7 @@
 0,FJI,Fiji,Fiji,Fiji,242,FJ,Fiji,Fiji,Fiji,Fiji,Fiji,FJI,Fiji,Fiji,Oceania,Oceania,Oceania,SE Asia - Pac,,,,FJD,Dollar,177.9767658,-17.83380528
 1,FIN,Finland,Finland,Fin.,246,FI,Finland,Finland,Finland,Finland,Finland,FIN,Finland,Finland,Europe,N Europe,N Europe,Eur & C Asia,1,1,,EUR,Euro,27.26383691,63.26416407
 1,FRA,France,France,Fr.,250,FR,France,France,France,France,France,FRA,France,France,Europe,W Europe,W Europe,Eur & C Asia,1,1,,EUR,Euro,2.462090957,46.71797102
-,GUF,French Guiana,Fr Guiana,Fr.Gui.,254,GF,French Guiana,,,,French Guiana,,,,S America,Latam & Carib,Latam & Carib,Latam & Carib,,,,EUR,Euro,-53.00847121,4.015566354
+,GUF,French Guiana,Fr Guiana,Fr.Gui.,254,GF,French Guiana,,,,French Guiana,,,,S America,Latam & Carib,Latam & Carib,Latam & Carib,,,,EUR,Euro,-53.3,3.5
 0,PYF,French Polynesia,Fr Polynesia,Fr.Pol.,258,PF,French Polynesia,French Polynesia,French Polynesia,French Polynesia,French Polynesia,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,1,XPF,Franc,-149.4468131,-17.64077882
 ,ATF,French Southern Territories,Fr S Territories,TAF,260,TF,French Southern Territories (the),,,,French Southern Territories,,,,Africa,Africa,SSA,SSA,,,,#N/A,#N/A,#N/A,#N/A
 0,GAB,Gabon,Gabon,Gabon,266,GA,Gabon,Gabon,Gabon,Gabon,Gabon,GAB,Gabon,Gabon,Africa,Africa,SSA,SSA,,,,XAF,Franc,11.51486643,-0.62059179
@@ -178,7 +178,7 @@
 1,PER,Peru,Peru,Peru,604,PE,Peru,Peru,Peru,Peru,Peru,PER,Peru,Peru,S America,Latam & Carib,Latam & Carib,Latam & Carib,,,,PEN,Sol,-76.6,-6.5
 1,PHL,Philippines,Philippines,Phil.,608,PH,Philippines (the),Philippines,Philippines,Philippines,Philippines,PHL,Philippines,Philippines,Asia,SE Asia,SE Asia,SE Asia - Pac,,,,PHP,Peso,121.3855374,16.91811171
 ,PCN,Pitcairn,Pitcairn,Pitc.,612,PN,Pitcairn,,,,Pitcairn,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,,NZD,Dollar,#N/A,#N/A
-1,POL,Poland,Poland,Pol.,616,PL,Poland,Poland,Poland,Poland,Poland,POL,Poland,Poland,Europe,E Europe,E Europe,Eur & C Asia,1,1,,PLN,Zloty,19.49061135,52.6
+1,POL,Poland,Poland,Pol.,616,PL,Poland,Poland,Poland,Poland,Poland,POL,Poland,Poland,Europe,E Europe,E Europe,Eur & C Asia,1,1,,PLN,Zloty,18.5,53.2
 1,PRT,Portugal,Portugal,Port.,620,PT,Portugal,Portugal,Portugal,Portugal,Portugal,PRT,Portugal,Portugal,Europe,S Europe,S Europe,Eur & C Asia,1,1,,EUR,Euro,-8.265885829,39.29732098
 1,PRI,Puerto Rico,Puerto Rico,PR,630,PR,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,PRI,Puerto Rico,Puerto Rico,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,USD,Dollar,-66.5,18.22939216
 1,QAT,Qatar,Qatar,Qatar,634,QA,Qatar,Qatar,Qatar,Qatar,Qatar,QAT,Qatar,Qatar,Asia,W Asia,W Asia,MENA,,,,QAR,Riyal,51.14769279,25.22082231
@@ -221,7 +221,7 @@
 1,TWN,Taiwan,Taiwan,Tai.,158,TW,Taiwan (Province of China),"Taiwan, China","Taiwan, China",,,TWN,Taiwan Province of China,Taiwan,Asia,E Asia,E Asia,E Asia,,,,TWD,New Dollar,120.8771507,23.63559318
 1,TJK,Tajikistan,Tajikistan,Taj.,762,TJ,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,TJK,Tajikistan,Tajikistan,Asia,C Asia,C Asia,Eur & C Asia,,,,TJS,Somoni,72.59285067,38.20059285
 1,TZA,Tanzania,Tanzania,Tza.,834,TZ,"Tanzania, the United Republic of",Tanzania,Tanzania,,United Republic of Tanzania,TZA,Tanzania,Tanzania,Africa,Africa,SSA,SSA,,,,TZS,Shilling,34.88138498,-5.940529658
-1,THA,Thailand,Thailand,Thai.,764,TH,Thailand,Thailand,Thailand,Thailand,Thailand,THA,Thailand,Thailand,Asia,SE Asia,SE Asia,SE Asia - Pac,,,,THB,Baht,101.0266237,15.48546596
+1,THA,Thailand,Thailand,Thai.,764,TH,Thailand,Thailand,Thailand,Thailand,Thailand,THA,Thailand,Thailand,Asia,SE Asia,SE Asia,SE Asia - Pac,,,,THB,Baht,100,16.4
 0,TLS,Timor-Leste,Timor-Leste,Timor,626,TL,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,TLS,Timor-Leste,,Asia,SE Asia,SE Asia,SE Asia - Pac,,,,USD,Dollar,125.8656902,-8.800994512
 1,TGO,Togo,Togo,Togo,768,TG,Togo,Togo,Togo,Togo,Togo,TGO,Togo,Togo,Africa,Africa,SSA,SSA,,,,XOF,Franc,1.071869341,8.843704903
 ,TKL,Tokelau,Tokelau,Tok.,772,TK,Tokelau,,Tokelau,,Tokelau,,,,Oceania,Oceania,Oceania,SE Asia - Pac,,,,NZD,Dollar,#N/A,#N/A
@@ -233,7 +233,7 @@
 0,TCA,Turks and Caicos Islands,Turks & Caicos Is,Turks,796,TC,Turks and Caicos Islands (the),Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,,,,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,1,USD,Dollar,-71.72274179,21.77573466
 0,TUV,Tuvalu,Tuvalu,Tuv.,798,TV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TUV,Tuvalu,,Oceania,Oceania,Oceania,SE Asia - Pac,,,1,TVD,Dollar,178.3838215,-8.047511013
 ,VIR,U.S. Virgin Islands,US Virgin Is,USVI,850,VI,Virgin Islands (U.S.),Virgin Islands (U.S.),,,United States Virgin Islands,,,,N America,Latam & Carib,Latam & Carib,Latam & Carib,,,,USD,Dollar,#N/A,#N/A
-1,UGA,Uganda,Uganda,Uga.,800,UG,Uganda,Uganda,Uganda,Uganda,Uganda,UGA,Uganda,Uganda,Africa,Africa,SSA,SSA,,,,UGX,Shilling,32.94894987,1.2
+1,UGA,Uganda,Uganda,Uga.,800,UG,Uganda,Uganda,Uganda,Uganda,Uganda,UGA,Uganda,Uganda,Africa,Africa,SSA,SSA,,,,UGX,Shilling,32.94894987,1.8
 1,UKR,Ukraine,Ukraine,Ukr.,804,UA,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,UKR,Ukraine,Ukraine,Europe,E Europe,E Europe,Eur & C Asia,1,,,UAH,Hryvnia,32.16303146,49.32368101
 1,ARE,United Arab Emirates,UAE,UAE,784,AE,United Arab Emirates (the),United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,ARE,United Arab Emirates,United Arab Emirates,Asia,W Asia,W Asia,MENA,,,,AED,Dirham,54.49798122,23.51280973
 1,GBR,United Kingdom,UK,UK,826,GB,United Kingdom of Great Britain and Northern Ireland (the),United Kingdom,United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,GBR,United Kingdom,United Kingdom,Europe,N Europe,N Europe,Eur & C Asia,1,,,GBP,Pound,-2.5,54.95
