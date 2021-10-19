@@ -1,4 +1,4 @@
-﻿Master,Code,Country,Short,Abbr,Num,Alpha2,ISOcountry,WDIcountry,ICPcountry,AMA,M49,WEOcode,WEOcountry,ERS,Continent,Region,Subregion,TelluReg,Affluent,EU,Small,CurrCode,Currency,Long,Lat,Köppen
+﻿Master,Code,Country,Short,Abbr,Num,Alpha2,ISOcountry,WDIcountry,ICPcountry,AMA,M49,WEOcode,WEOcountry,ERS,Continent,Region,Subregion,TelluReg,Affluent,EU,Small,CurrCode,Currency,Long,Lat,Koeppen
 1,AFG,Afghanistan,Afghanistan,Afg.,4,AF,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG,Afghanistan,Afghanistan,Asia,S Asia,S Asia,S Asia,,,,AFN,Afghani,66.51753208,34.14830574,Cfa
 ,ALA,Aland Islands,Aland Is,Aland,248,AX,Åland Islands,,,,Åland Islands,,,,Europe,N Europe,N Europe,Eur & C Asia,1,,,EUR,Euro,#N/A,#N/A,#N/A
 0,ALB,Albania,Albania,Alb.,8,AL,Albania,Albania,Albania,Albania,Albania,ALB,Albania,Albania,Europe,S Europe,S Europe,Eur & C Asia,1,,,ALL,Lek,20.07558222,40.71855977,Csa
