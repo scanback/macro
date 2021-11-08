@@ -1,4 +1,4 @@
-﻿Master,Code,Country,Short,Abbr,Num,Alpha2,ISOcountry,WDIcountry,ICPcountry,AMA,M49,WEOcode,WEOcountry,ERS,Continent,Region,Subregion,TelluReg,Affluent,EU,SizeRank,SizeBinEU,SizeRankEU,SizeBinEU,SmallArea,CurrCode,Currency,Long,Lat,Shift,ShLong,ShLat,Köppen
+﻿Master,Code,Country,Short,Abbr,Num,Alpha2,ISOcountry,WDIcountry,ICPcountry,AMA,M49,WEOcode,WEOcountry,ERS,Continent,Region,Subregion,TelluReg,Affluent,EU,SizeRank,SizeBinEU,SizeRankEU,SizeBinEU,Small,CurrCode,Currency,Long,Lat,Shift,ShLong,ShLat,Köppen
 1,AFG,Afghanistan,Afghanistan,Afg.,4,AF,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,AFG,Afghanistan,Afghanistan,Asia,S Asia,S Asia,S Asia,0,0,70,S,54,S,0,AFN,Afghani,66.51753208,34.14830574,0,46.51753208,34.14830574,Cfa
 0,ALA,Aland Islands,Aland Is,Aland,248,AX,Åland Islands,,,,Åland Islands,,,,Europe,N Europe,N Europe,Eur & C Asia,1,0,#N/A,#N/A,#N/A,#N/A,0,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 2,ALB,Albania,Albania,Alb.,8,AL,Albania,Albania,Albania,Albania,Albania,ALB,Albania,Albania,Europe,S Europe,S Europe,Eur & C Asia,1,0,140,VS,117,VS,0,ALL,Lek,20.07558222,40.71855977,0,0.075582221,40.71855977,Csa
