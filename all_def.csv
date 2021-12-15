@@ -219,7 +219,7 @@
 9,SYR,Syria,Syria,Syria,760,SY,Asia,W Asia,W Asia,MENA,0,0,0,92,VS,75,S,0,SYP,Pound,38.29897861,35.00606767,0,18.29897861,35.00606767,Csa
 1,TWN,Taiwan,Taiwan,Tai.,158,TW,Asia,E Asia,E Asia,E Asia,0,0,0,29,M,24,M,0,TWD,New Dollar,120.8771507,23.63559318,0,100.8771507,23.63559318,Cfa
 1,TJK,Tajikistan,Tajikistan,Taj.,762,TJ,Asia,C Asia,C Asia,Eur & C Asia,0,0,0,121,VS,101,VS,0,TJS,Somoni,72.59285067,38.20059285,0,52.59285067,38.20059285,Csb
-0,EAT,Tanganyika,,,835,,,,,,,,,,,,,,,,,,,,,
+3,EAT,Tanganyika,,,835,,,,,,,,,,,,,,,,,,,,,
 1,TZA,Tanzania,Tanzania,Tza.,834,TZ,Africa,Africa,SSA,SSA,0,0,0,46,M,38,M,0,TZS,Shilling,34.88138498,-5.940529658,0,14.88138498,-5.940529658,Aw
 1,THA,Thailand,Thailand,Thai.,764,TH,Asia,SE Asia,SE Asia,SE Asia - Pac,0,0,0,25,M,22,M,0,THB,Baht,101.0266237,15.48546596,0,81.02662369,15.48546596,Aw
 2,TLS,Timor-Leste,Timor-Leste,Timor,626,TL,Asia,SE Asia,SE Asia,SE Asia - Pac,0,0,0,164,VS,138,VS,0,USD,Dollar,125.8656902,-8.800994512,0,105.8656902,-8.800994512,Aw
@@ -249,7 +249,7 @@
 9,ESH,Western Sahara,W Sahara,W.Sah.,732,EH,Africa,Africa,N Africa,MENA,0,0,0,173,VS,147,VS,0,MAD,Dirham,-13.42223609,24.78925542,0,-33.42223609,24.78925542,BWh
 9,YEM,Yemen,Yemen,Yem.,887,YE,Asia,W Asia,W Asia,MENA,0,0,0,79,S,63,S,0,YER,Rial,45.86270813,15.32978024,0,25.86270813,15.32978024,BSk
 1,ZMB,Zambia,Zambia,Zam.,894,ZM,Africa,Africa,SSA,SSA,0,0,0,90,S,73,S,0,ZMW,Kwacha,26.72628115,-14.48165468,0,6.726281155,-14.48165468,Cwa
-0,EAZ,Zanzibar,,,836,,,,,,,,,,,,,,,,,,,,,
+3,EAZ,Zanzibar,,,836,,,,,,,,,,,,,,,,,,,,,
 9,ZWE,Zimbabwe,Zimbabwe,Zim.,716,ZW,Africa,Africa,SSA,SSA,0,0,0,99,VS,81,S,0,ZWD,Dollar,29.94282917,-18.91893406,0,9.942829174,-18.91893406,Cwa
 ,USA-HI,Hawaii,#N/A,#N/A,,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A,#N/A,#N/A,#N/A,,#N/A,#N/A,-155.5184768,19.61554735,2,-125.5184768,19.61554735,#N/A
 ,GRL-21119,Nuuk,#N/A,#N/A,,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A,#N/A,#N/A,#N/A,,#N/A,#N/A,-51.72157,64.18347,8,-58.32157,61.98347,#N/A
