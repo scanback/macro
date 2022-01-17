@@ -251,7 +251,5 @@
 1,ZMB,Zambia,Zambia,Zam.,894,ZM,Africa,Africa,SSA,SSA,0,0,0,90,S,73,S,0,ZMW,Kwacha,26.72628115,-14.48165468,0,6.726281155,-14.48165468,Cwa
 3,EAZ,Zanzibar,,,836,,,,,,,,,,,,,,,,,,,,,
 9,ZWE,Zimbabwe,Zimbabwe,Zim.,716,ZW,Africa,Africa,SSA,SSA,0,0,0,99,VS,81,S,0,ZWD,Dollar,29.94282917,-18.91893406,0,9.942829174,-18.91893406,Cwa
-,USA-HI,Hawaii,#N/A,#N/A,,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A,#N/A,#N/A,#N/A,,#N/A,#N/A,-155.5184768,19.61554735,2,-125.5184768,19.61554735,#N/A
-,GRL-21119,Nuuk,#N/A,#N/A,,#N/A,#N/A,#N/A,#N/A,#N/A,,,,#N/A,#N/A,#N/A,#N/A,,#N/A,#N/A,-51.72157,64.18347,8,-58.32157,61.98347,#N/A
 4,EUE,European Union,EU,EU,,,,,,,,,,,,,,,,,,,,,,
-4,CHI,Channel Islands,Channel Is,Cha.Is.,830,CI,Europe,N Europe,N Europe,Eur & C Asia,1,0,0,,,,,,,,,,,,,
+0,CHI,Channel Islands,Channel Is,Cha.Is.,830,CI,Europe,N Europe,N Europe,Eur & C Asia,1,0,0,,,,,,,,,,,,,
