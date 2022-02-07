@@ -21,7 +21,7 @@ SizeBin,"Our classification into L, M,S, VS countries"
 SizeRankEU,"Our size ranking with EU treated as one country, without EU members. I.e. 213-27+1 countries = 201"
 SizeBinEU_1,"Our classification into L, M,S, VS countries, with EU, without EU members"
 ,
-Small,Area small so hard to see on map. Used for circles in MapShaper
+Small,Area so small country is hard to see on map. Used for circles in MapShaper
 ,
 Long,Suitable plot points if country represented by dot in middle of map in MapShapper
 Lat,
