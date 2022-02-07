@@ -1,0 +1,35 @@
+﻿all_def legends,
+,
+Master,
+1,124 core countries
+2,Other countries
+3,Tanzania = Tanganyika (Mainland) + Zanzibar
+5,Groups of countries
+8,Insignificant territories with no data
+9,Strife countries
+99,Former countries
+,
+,1 & 2 & 9 = UN covered countries + Tanazania + Kosovo + Taiwan + W Sahara - Tanganyika - Zanzibar = 213 countries
+,
+Continent,UN M49 classification
+Region,
+Subregion,
+TelluReg,Our regions
+,
+Affluent,World Bank classification = high income (GNIcu/cap > $12696 in 2022)
+,
+SizeRank,Our size ranking based on 213 countries
+SizeBin,"Our classification into L, M,S, VS countries"
+SizeRankEU,"Our size ranking with EU treated as one country, without EU members. I.e. 213-27+1 countries = 201"
+SizeBinEU_1,"Our classification into L, M,S, VS countries, with EU, without EU members"
+,
+Small,Area small so hard to see on map. Used for circles in MapShaper
+,
+Long,Suitable plot points if country represented by dot in middle of map in MapShapper
+Lat,
+Shift,Shifting countries in MapShaper to create Canback projection
+,
+Köppen,3 letter climate zone
+,
+Baltoscandia,SC interest (8 countries)
+USSR,15 former Soviet republics
