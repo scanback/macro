@@ -79,7 +79,7 @@
 1,FRA,France,France,Fr.,250,FR,Europe,W Europe,W Europe,Eur & C Asia,1,1,1,9,L,#N/A,#N/A,0,EUR,Euro,2.462090957,46.71797102,0,-17.53790904,46.71797102,Cfb,0,0
 3,GUF,French Guiana,Fr Guiana,Fr.Gui.,254,GF,S America,Latam & Carib,Latam & Carib,Latam & Carib,1,1,1,#N/A,#N/A,#N/A,#N/A,0,EUR,Euro,-53.05696373,4.081891193,1,-53.05696373,4.081891193,Af,0,0
 2,PYF,French Polynesia,Fr Polynesia,Fr.Pol.,258,PF,Oceania,Oceania,Oceania,SE Asia - Pac,1,0,0,176,VS,150,VS,1,XPF,Franc,-149.4468131,-17.64077882,2,-119.4468131,-17.64077882,Af,0,0
-8,ATF,French Southern Territories,Fr S Territories,TAF,260,TF,Africa,Africa,SSA,SSA,#N/A,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
+8,ATF,French Southern Territories,Fr S Territories,TAF,260,TF,Africa,Africa,SSA,SSA,#N/A,0,1,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
 2,GAB,Gabon,Gabon,Gabon,266,GA,Africa,Africa,SSA,SSA,0,0,0,143,VS,119,VS,0,XAF,Franc,11.51486643,-0.62059179,0,-8.485133571,-0.62059179,Am,0,0
 2,GMB,Gambia,Gambia,Gam.,270,GM,Africa,Africa,SSA,SSA,0,0,0,162,VS,136,VS,1,GMD,Dalasi,-16.7,13.325,0,-36.7,13.325,Aw,0,0
 2,GEO,Georgia,Georgia,Geo.,268,GE,Asia,W Asia,W Asia,Eur & C Asia,0,0,0,137,VS,114,VS,0,GEL,Lari,43.74997733,41.86142208,0,23.74997733,41.86142208,Cfa,0,1
@@ -185,12 +185,12 @@
 1,ROU,Romania,Romania,Rom.,642,RO,Europe,E Europe,E Europe,Eur & C Asia,0,1,0,49,M,#N/A,#N/A,0,RON,Leu,24.98606886,45.72975894,0,4.986068858,45.72975894,Cfa,0,0
 1,RUS,Russia,Russia,Rus.,643,RU,Europe,E Europe,E Europe,Eur & C Asia,0,0,0,8,L,8,L,0,RUB,Ruble,94.1611717,63.27424573,0,74.1611717,63.27424573,Dfb,0,1
 1,RWA,Rwanda,Rwanda,Rwa.,646,RW,Africa,Africa,SSA,SSA,0,0,0,112,VS,93,VS,0,RWF,Franc,30.09606874,-1.894797577,0,10.09606874,-1.894797577,Aw,0,0
-8,BLM,Saint Barthelemy,St Barthelemy,S.Bar.,652,BL,N America,Latam & Carib,Latam & Carib,Latam & Carib,1,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
+8,BLM,Saint Barthelemy,St Barthelemy,S.Bar.,652,BL,N America,Latam & Carib,Latam & Carib,Latam & Carib,1,0,1,#N/A,#N/A,#N/A,#N/A,#N/A,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
 8,SHN,"Saint Helena, Ascension and Tristan da Cunha",St Helena,S.Hel,654,SH,Africa,Africa,SSA,SSA,0,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,GBP,Pound,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
 2,KNA,Saint Kitts and Nevis,St Kitts & Nevis,S.Kit.,659,KN,N America,Latam & Carib,Latam & Carib,Latam & Carib,1,0,0,199,VS,173,VS,1,XCD,Dollar,-62.77535755,17.34942958,1,-62.77535755,17.34942958,Aw,0,0
 2,LCA,Saint Lucia,St Lucia,S.Luc.,662,LC,N America,Latam & Carib,Latam & Carib,Latam & Carib,0,0,0,190,VS,164,VS,1,XCD,Dollar,-60.9755791,13.8945849,1,-60.9755791,13.8945849,Af,0,0
-8,MAF,Saint Martin,St Martin,S.Mart.,663,MF,N America,Latam & Carib,Latam & Carib,Latam & Carib,1,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
-8,SPM,Saint Pierre and Miquelon,St Pierre & Miquelon,S.Pie.,666,PM,N America,Northern America,Northern America,Northern America,1,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
+8,MAF,Saint Martin,St Martin,S.Mart.,663,MF,N America,Latam & Carib,Latam & Carib,Latam & Carib,1,1,1,#N/A,#N/A,#N/A,#N/A,#N/A,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
+8,SPM,Saint Pierre and Miquelon,St Pierre & Miquelon,S.Pie.,666,PM,N America,Northern America,Northern America,Northern America,1,0,1,#N/A,#N/A,#N/A,#N/A,#N/A,EUR,Euro,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0,0
 2,VCT,Saint Vincent and the Grenadines,St Vincent,S.Vin.,670,VC,N America,Latam & Carib,Latam & Carib,Latam & Carib,0,0,0,198,VS,172,VS,1,XCD,Dollar,-61.18967867,13.2414001,1,-61.18967867,13.2414001,Af,0,0
 2,WSM,Samoa,Samoa,Samoa,882,WS,Oceania,Oceania,Oceania,SE Asia - Pac,0,0,0,194,VS,168,VS,1,WST,Tala,-172.4505903,-13.62737295,6,-137.4505903,-13.62737295,Af,0,0
 2,SMR,San Marino,San Marino,S.Mari.,674,SM,Europe,S Europe,S Europe,Eur & C Asia,1,0,1,195,VS,169,VS,1,EUR,Euro,12.46072799,43.93470164,0,-7.539272015,43.93470164,Cfa,0,0
