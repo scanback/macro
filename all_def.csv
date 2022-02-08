@@ -29,7 +29,7 @@
 8,BES,"Bonaire, Sint Eustatius and Saba",Bonaire,Bon.,535,BQ,N America,Latam & Carib,Latam & Carib,Latam & Carib,0,0,0,999,#N/A,999,#N/A,999,USD,Dollar,999,999,999,999,999,Aw,0,0
 2,BIH,Bosnia and Herzegovina,Bosnia,Bos.,70,BA,Europe,S Europe,S Europe,Eur & C Asia,0,0,0,135,VS,112,VS,0,BAM,Mark,18.11110718,44.08065872,0,-1.888892816,44.08065872,Cfb,0,0
 2,BWA,Botswana,Botswana,Bwa.,72,BW,Africa,Africa,SSA,SSA,0,0,0,141,VS,118,VS,0,BWP,Pula,24.19664288,-22.08936908,0,4.196642879,-22.08936908,BSh,0,0
-8,BVT,Bouvet Island,Bouvet Is,Bouv.,74,BV,#N/A,#N/A,#N/A,#N/A,999,0,0,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,#N/A,0,0
+8,BVT,Bouvet Island,Bouvet Is,Bouv.,74,BV,Antarctica,Antarctica,Antarctica,Antarctica,999,0,0,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,#N/A,0,0
 1,BRA,Brazil,Brazil,Bra.,76,BR,S America,Latam & Carib,Latam & Carib,Latam & Carib,0,0,0,6,L,6,L,0,BRL,Real,-49.82736433,-11.07540519,1,-49.82736433,-11.07540519,Aw,0,0
 8,IOT,British Indian Ocean Territory,BIOT,BIOT,86,IO,Africa,Africa,SSA,SSA,999,0,0,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,#N/A,0,0
 2,VGB,British Virgin Islands,Br Virgin Is,BVI,92,VG,N America,Latam & Carib,Latam & Carib,Latam & Carib,1,0,0,203,VS,177,VS,1,USD,Dollar,-64.62810313,18.43452405,1,-64.62810313,18.43452405,Am,0,0
@@ -251,14 +251,14 @@
 1,ZMB,Zambia,Zambia,Zam.,894,ZM,Africa,Africa,SSA,SSA,0,0,0,90,S,73,S,0,ZMW,Kwacha,26.72628115,-14.48165468,0,6.726281155,-14.48165468,Cwa,0,0
 3,EAZ,Zanzibar,#N/A,#N/A,836,#N/A,#N/A,#N/A,#N/A,#N/A,0,0,0,999,#N/A,999,#N/A,999,TZS,Shilling,999,999,999,999,999,Am,999,999
 9,ZWE,Zimbabwe,Zimbabwe,Zim.,716,ZW,Africa,Africa,SSA,SSA,0,0,0,99,VS,81,S,0,ZWD,Dollar,29.94282917,-18.91893406,0,9.942829174,-18.91893406,Cwa,0,0
-4,EUE,European Union,EU,EU,999,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,3,L,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-4,CHI,Channel Islands,Channel Is,Cha.Is.,830,CI,Europe,N Europe,N Europe,Eur & C Asia,1,0,0,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-4,BS8,Baltoscandia,Baltoscandia,BS8,999,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,CSK,Czechoslovakia (Former),#N/A,#N/A,200,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,ETZ,Ethiopia (Former),#N/A,#N/A,230,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,SUZ,Sudan (Former),#N/A,#N/A,736,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,ANT,Netherlands Antilles (Former),#N/A,#N/A,530,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,YMD,South Yemen (Former),#N/A,#N/A,720,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,SUN,Soviet Union (Former),#N/A,#N/A,810,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,YEZ,Yemen (Former),#N/A,#N/A,886,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
-99,YUG,Yugoslavia (Former),#N/A,#N/A,890,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,#N/A,#N/A,999,#N/A,#N/A,999,999,999
+4,EUE,European Union,EU,EU,999,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,3,L,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+4,CHI,Channel Islands,Channel Is,Cha.Is.,830,CI,Europe,N Europe,N Europe,Eur & C Asia,1,0,0,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+4,BS8,Baltoscandia,Baltoscandia,BS8,999,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,CSK,Czechoslovakia (Former),#N/A,#N/A,200,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,ETZ,Ethiopia (Former),#N/A,#N/A,230,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,SUZ,Sudan (Former),#N/A,#N/A,736,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,ANT,Netherlands Antilles (Former),#N/A,#N/A,530,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,YMD,South Yemen (Former),#N/A,#N/A,720,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,SUN,Soviet Union (Former),#N/A,#N/A,810,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,YEZ,Yemen (Former),#N/A,#N/A,886,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
+99,YUG,Yugoslavia (Former),#N/A,#N/A,890,#N/A,#N/A,#N/A,#N/A,#N/A,999,999,999,999,#N/A,999,#N/A,999,#N/A,#N/A,999,999,999,999,999,999,999,999
