@@ -17,13 +17,13 @@ TelluReg,Our regions
 Affluent,World Bank classification = high income (GNIcu/cap > $12696 in 2022)
 ,
 SizeRank,Our size ranking based on 213 countries
-SizeBin,"Our classification into L, M,S, VS countries"
+SizeBin,"Our classification into L, M, S, VS countries"
 SizeRankEU,"Our size ranking with EU treated as one country, without EU members. I.e. 213-27+1 countries = 201"
-SizeBinEU_1,"Our classification into L, M,S, VS countries, with EU, without EU members"
+SizeBinEU_1,"Our classification into L, M, S, VS countries, with EU, without EU members"
 ,
-Small,Area small so hard to see on map. Used for circles in MapShaper
+Small,Small area: therefore hard to see on map. Used for circles in Mapshaper
 ,
-Long,Suitable plot points if country represented by dot in middle of map in MapShapper
+Long,Suitable plot points if country represented by dot in middle of map in Mapshaper
 Lat,
 Shift,Shifting countries in MapShaper to create Canback projection
 ,
@@ -31,7 +31,6 @@ Köppen,3 letter climate zone
 ,
 Baltoscandia,SC interest (8 countries)
 USSR,15 former Soviet republics
-,
 ,
 Not available / not meaningful,
 999,Numeric
