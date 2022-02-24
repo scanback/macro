@@ -1,4 +1,4 @@
-﻿Master,Code,Country,Short,Abbr,Num,Alpha2,Continent,Region,Subregion,TelluReg,Affluent,EU,EuroZone,SizeRank,SizeBinEU,SizeRankEU,SizeBinEU_1,Small,CurrCode,Currency,Long,Lat,Shift,ShLong,ShLat,Köppen,Baltoscandia,USSR
+﻿Master,Code,Country,Short,Abbr,Num,Alpha2,Continent,Region,Subregion,TelluReg,Affluent,EU,EuroZone,SizeRank,SizeBin,SizeRankEU,SizeBinEU,Small,CurrCode,Currency,Long,Lat,Shift,ShLong,ShLat,Köppen,Baltoscandia,USSR
 1,AFG,Afghanistan,Afghanistan,Afg.,4,AF,Asia,S Asia,S Asia,S Asia,0,0,0,70,S,54,S,0,AFN,Afghani,66.51753208,34.14830574,0,46.51753208,34.14830574,Cfa,0,0
 8,ALA,Aland Islands,Aland Is,Aland,248,AX,Europe,N Europe,N Europe,Eur & C Asia,1,1,1,999,#N/A,999,#N/A,999,EUR,Euro,999,999,999,999,999,Dfb,1,0
 2,ALB,Albania,Albania,Alb.,8,AL,Europe,S Europe,S Europe,Eur & C Asia,0,0,0,140,VS,117,VS,0,ALL,Lek,20.07558222,40.71855977,0,0.075582221,40.71855977,Csa,0,0
